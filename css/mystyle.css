@@ -1,0 +1,209 @@
+div.line{
+	background-color: rgb(244,158,125);
+	width: 100%;
+	height: 10px;
+}
+div.navandslider{
+	background: rgba(5,5,6,0.7) !important;
+}
+div.navbar-header button{
+	border-color: rgb(244,158,125);
+}
+ul.mynav li a:hover {
+    background-color: rgb(244,158,125) !important;
+}
+p.pnav{
+	font-size: 30px;
+	color:white;
+	font-family: "Times New Roman";
+}
+p.p1{
+   color:white;
+   font-size: 30px;
+   margin-left: 13%;
+   font-family: "Times New Roman";
+}
+p.p2{
+   color:#b8b8b8;
+   font-size: 14px;
+   margin-left: 13%;
+   font-family: "Times New Roman";
+}
+img.im1{
+	width: 300px;
+	height: 300px;
+
+}
+img.im2{
+	width: 55px;
+	height: 55px;
+	margin-top:180%;
+}
+button.b1{
+     background-color: rgb(244,158,125);
+     border-color:  rgb(244,158,125);
+     color:white;
+     border-radius:10px;
+     width: 120px;
+     height: 50px;
+     margin-left: 13%;
+     font-family: "Times New Roman";
+     font-weight: bold;
+
+}
+img.immed {
+	width: 150px;
+	height: 150px;
+	margin-left: 10%
+}
+div.med{
+	background-color: white;
+	padding: 15px;
+	margin-bottom: 5%;
+	border-radius: 5%;
+}
+a:hover{
+	text-decoration: none;
+}
+a:hover div.med{
+	background-color: rgb(244,158,125);
+}
+a:hover div.med p.p1med{
+    font-size: 32px;
+    text-decoration: none;
+}
+a:hover div.med p.p2med{
+    font-size: 17px;
+    text-decoration: none;
+}
+a:hover div.med img{
+    width: 160px;
+	height: 160px;
+}
+div.med p.p1med{
+	font-size: 30px;
+	color : black;
+	text-align: center;
+	font-family: "Times New Roman";
+}
+div.med p.p2med{
+	font-size: 15px;
+	color : black;
+	text-align: center;
+	font-family: "Times New Roman";
+}
+div.latest{
+	margin-left: -2%;
+}
+
+div.latest a img{
+	width: 320px;
+	height: 300px;
+	-webkit-filter: grayscale(95%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(95%);
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    margin: 2%
+}
+div.latest a:hover img{
+    filter: none;
+    border-color: rgb(244,158,125);
+}
+div.carousel-caption{
+	font-size: 20px;
+	font-family: "Times New Roman";
+	background-color: rgba(8,8,8,0.7);
+}
+div.latest a:hover div.carousel-caption{
+	display: none;
+}
+hr.center{
+    border-width: 5px;
+    border-color: rgb(244,158,125);
+    width: 100%;
+    float:left;
+}
+hr.center2{
+    border-width: 5px;
+    border-color: rgb(244,158,125);
+    width: 100%;
+    float: right;
+}
+p.header{
+	text-align: center;
+	float: center;
+}
+h2{
+	text-align: center;
+	font-weight: bold;
+	font-family: "Times New Roman";
+	border-color: rgb(244,158,125);
+	border-width: 5px;
+}
+button.center3{
+	font-size: 22px;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Times New Roman";
+	border-width:5px;
+	border-color: rgb(244,158,125);
+	border-style: solid;
+	background-color: rgb(244,158,125);
+	margin: auto;
+	border-radius: 15px;
+}
+p.fp1{
+	color: white;
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+p.fp2{
+	color:rgb(244,158,125) ;
+	font-size: 17px;
+	font-family: "Times New Roman";
+}
+p.fp3 span{
+	color:rgb(244,158,125) ;
+	font-size: 15px;
+	font-family: "Times New Roman";
+}
+p.fp3{
+	color:#b5b5b5 ;
+	font-size: 15px;
+	font-family: "Times New Roman";
+}
+p.fp4{
+	color:#797979 ;
+	font-size: 10px;
+}
+p.fp5{
+	color:#797979 ;
+	font-size: 14px;
+	font-family: "Times New Roman";
+}
+a.read{
+	color:rgb(244,158,125) ;
+	font-size: 14px;
+	font-family: "Times New Roman";
+}
+a.links{
+	color:rgb(244,158,125);
+	font-size:14px;
+	font-family: "Times New Roman"; 
+}
+hr{
+	border-width: 1px;
+    border-color: #797979;
+}
+p.fp5 span{
+	color:rgb(244,158,125);
+}
+div.form-group input{
+	height: 35px;
+}
+div.form-group input,
+div.form-group textarea {
+    border-color: rgba(82,78,78,0.9);
+	background: rgba(82,78,78,0.9);
+}
